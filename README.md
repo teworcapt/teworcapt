@@ -11,5 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 - 🍥 always craving something out of my budget.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teworcapt)](https://github.com/anuraghazra/github-readme-stats)
 
