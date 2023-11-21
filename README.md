@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 * 🍥 always craving something out of my budget.
 * 🐟 Feel free to email me for anything really: _potatocchi@gmail.com_
 
-  ![qqqq](https://github.com/teworcapt/teworcapt/assets/134356292/1d7a752b-afd2-444b-9a20-117376c73b65)
+![image](https://github.com/teworcapt/teworcapt/assets/134356292/b695c9fa-668c-48de-81c2-211f04bedd82)
+
 
 
