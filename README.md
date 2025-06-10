@@ -3,7 +3,7 @@ teworcapt/teworcapt is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![1](https://github.com/user-attachments/assets/041e3b7d-dde8-443e-8aa3-9791bfec17ad)
+![Logo](wordlogo.png)
 
 ## Introduction
 - 🐚 Hi, _I’m @teworcapt_ 
