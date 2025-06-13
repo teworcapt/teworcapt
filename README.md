@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Introduction
 - 🐚 Hi, _I’m @teworcapt_ 
-* 🐠 I'm currently an third-year game-development college student, with a very large love for marine biology! 🎣
+* 🐠 I'm currently a third-year game-development college student, with a very large love for marine biology! 🎣
 * 🐳 mainly am an artist but I've had a background with programming for most of my life.
 
 
